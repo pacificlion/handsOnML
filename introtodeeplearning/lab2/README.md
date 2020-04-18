@@ -1,4 +1,4 @@
-Intro to DL - lab 2
+# Intro to DL - lab 2 Notes
 
 Monday, April 13, 2020
 
@@ -403,7 +403,7 @@ Sunday, April 19, 2020
 
  
 
-**Methodology **
+## Methodology
 
  
 
